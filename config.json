@@ -1,0 +1,6 @@
+{
+  "version": "2.0",
+  "statusText": "狀態: 雲端連線成功 - 伺服器運行中",
+  "notice": "歡迎使用最新 XSAI 自瞄！添加云更新功能",
+  "enableCloudFeature": true
+}
