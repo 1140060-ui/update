@@ -1,6 +1,4 @@
 {
-  "version": "2.0",
-  "statusText": "狀態: 雲端連線成功 - 伺服器運行中",
-  "notice": "歡迎使用最新 XSAI 自瞄！添加云更新功能",
-  "enableCloudFeature": true
+  "statusText": "状态: 雲端連線正常",
+  "updateNotice": "v2.0 Pro 更新日誌：\n1. 新增雲端彈窗公告功能。\n2. 優化自瞄與透視效能。\n3. 修復已知閃退問題。"
 }
