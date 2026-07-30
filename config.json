@@ -2,5 +2,5 @@
   "version" : "2.3",
   "updateNotice" : "修復已知問題",
   "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
-  "forceUpdate" : false
+  "forceUpdate" : true
 }
