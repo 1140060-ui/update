@@ -1,4 +1,7 @@
 {
-  "statusText": "状态: 雲端連線正常",
-  "updateNotice": "v2.0 Pro 更新日誌：\n1. 新增雲端彈窗公告功能。\n2. 優化自瞄與透視效能。\n3. 修復已知閃退問題。"
+  "statusText": "狀態: 雲端連線正常",
+  "versionCode": 22000,
+  "versionName": "v2.2 Pro",
+  "updateNotice": "v2.2 Pro 更新日誌：\n1. 新增雲端彈窗公告功能。\n2. 優化自瞄與透視效能。\n3. 修復已知閃退問題。",
+  "downloadUrl": "https://github.com/你的用戶名/你的倉庫名/releases/download/v2.0/app-release.apk"
 }
