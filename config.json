@@ -1,7 +1,7 @@
 {
-  "statusText": "狀態: 雲端連線正常",
   "versionCode": 22000,
-  "versionName": "v2.2 Pro",
-  "updateNotice": "v2.2 Pro 更新日誌：\n1. 新增雲端彈窗公告功能。\n2. 優化自瞄與透視效能。\n3. 修復已知閃退問題。",
-  "downloadUrl": "https://raw.githubusercontent.com/1140060-ui/update/main/XSAI_1.0.apk"
+  "versionName": "2.2",
+  "updateNotice": "1. 修復已知問題\n 2.修復閃退問題",
+  "downloadUrl": "https://raw.githubusercontent.com/1140060-ui/update/main/XSAI.apk",
+  "forceUpdate": true 
 }
