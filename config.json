@@ -1,7 +1,6 @@
 {
-  "versionCode": 22000,
-  "versionName": "2.2",
-  "updateNotice": "1. 修復已知問題\n 2.修復閃退問題",
+  "version": "2.2",
+  "updateNotice": "修復已知問題",
   "downloadUrl": "https://raw.githubusercontent.com/1140060-ui/update/main/XSAI.apk",
-  "forceUpdate": true 
+  "forceUpdate": true
 }
