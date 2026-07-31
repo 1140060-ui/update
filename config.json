@@ -1,5 +1,5 @@
 {
-  "version" : "2.4",
+  "version" : "2.5",
   "updateNotice" : "1.修復閃退問題 /n2.修復云更新顯示异常 /n3. 修復云更新安裝不了/n 4.修復云更新下載不了",
   "downloadUrl" : "https://raw.githubusercontent.com/1140060-ui/update/refs/heads/main/XSAI_2.3.apk",
   "forceUpdate" : true
